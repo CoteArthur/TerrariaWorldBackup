@@ -2,4 +2,4 @@
 
 Files located at : 
 
-    ~/.local/share/Terraria/Worlds/
+    ~/.local/share/Terraria/
