@@ -1,5 +1,9 @@
 *
 
 !.gitignore
-!Worlds/Master_world_3.wld*
-!Players/Funky_Kong*
+
+!Worlds
+!Worlds/Master_world_3.wld
+
+!Players
+!Players/Funky_Kong.plr
